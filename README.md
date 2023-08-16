@@ -33,7 +33,7 @@
 
 ## Rails Link
 
-  https://github.com/mercymugambi/hello-react-front-end/
+  [https://github.com/mercymugambi/hello-react-front-end/](https://github.com/mercymugambi/hello-rails-back-end/tree/feature/setup)
 
 
 ## Key Features
