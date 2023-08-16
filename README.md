@@ -77,7 +77,7 @@ Install this project with:
 Example command:
 
 ```sh
-bundle && npm install
+npm install
 ```
 
 ### Usage
@@ -87,7 +87,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-- Open the terminal to play with the commands.
+- npm start
 ```
 
 ### Run tests
@@ -97,7 +97,7 @@ To run tests for the linter, run the following command:
 Example command:
 
 ```sh
-rubocop -A
+run stylint and eslint
 ```
 
 
