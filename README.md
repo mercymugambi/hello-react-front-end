@@ -31,11 +31,10 @@
 
 - React Redux
 
-## React Link
+## Rails Link
 
-```sh
   https://github.com/mercymugambi/hello-react-front-end/
-```
+
 
 ## Key Features
 
